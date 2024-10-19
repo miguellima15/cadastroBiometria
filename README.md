@@ -12,6 +12,7 @@ Este projeto transforma dados de alunos, a partir de um arquivo de texto, em um 
 
 O arquivo de entrada deve ter o formato:
 matricula, nome
+
 2345678, João Silva
 
 87654321, Maria Souza
